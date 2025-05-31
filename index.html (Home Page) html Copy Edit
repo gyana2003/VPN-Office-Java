@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VPN Office Project</title>
+</head>
+<body>
+    <h2>Welcome to VPN Office Network</h2>
+    <form action="admin" method="post">
+        <input type="text" name="username" placeholder="Admin Username">
+        <input type="submit" value="Admin Login">
+    </form>
+    <form action="training" method="post">
+        <input type="submit" value="Training Module">
+    </form>
+    <form action="marketing" method="post">
+        <input type="submit" value="Marketing Module">
+    </form>
+</body>
+</html>
+
