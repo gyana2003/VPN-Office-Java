@@ -41,4 +41,6 @@ A Java-based Virtual Private Network (VPN) web application designed for secure c
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/VPN-Office-Java.git
+   git clone https://github.com/gyana2003/VPN-Office-Java.git
+cd VPN-Office-Java
+
